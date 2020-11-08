@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 00bf195987e80594eafaae0c5617d2e3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _selectable: {instanceID: 0}
+  - m_RectTransform: {instanceID: 0}
+  - _bouncyButtonPreset: {fileID: 11400000, guid: e78bd7e0cf9df41e4ab28149d51146ef,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,9 @@
+ID,Name,Feature,Resources Path,ItemType,Product ID,Publisher ID,Cost Amount,Cost Currency,Reward ID,Amount,No Ads,Description,EOL
+1,Video Reward Gems,,Gem,Gem,,,,RewardedVideo,,2,,Get 2 gems for watching  a video ad,
+2,Handful of Gems,,GemHandful,Gem,com.sweatychair.friendsmustdie.handfulofgems,,0.99,Money,,20,1,Get 20 gems,
+3,Bag of Gems, ,GemBag,Gem,com.sweatychair.friendsmustdie.packageofgems,,4.99,Money,,150,1,Get 150 gems,
+4,Cargo of Gems, ,GemCargo,Gem,com.sweatychair.friendsmustdie.cargoofgems,,14.99,Money,,500,1,Get 500 gems,
+5,Pile of Gems,,GemPile,Gem,com.sweatychair.friendsmustdie.pileofgems,,24.99,Money,,1200,1,Get 1200 gems,
+6,Handful of Coins,,CoinDouble,Coin,,,5,Gem,,200,,Get 200 coins,
+7,Bag of Coins,,CoinPile,Coin,,,25,Gem,,1200,,Get 1200 coins,
+8,Cargo of Coins,,CoinCargo,Coin,,,100,Gem,,6500,,Get 6500 coins,

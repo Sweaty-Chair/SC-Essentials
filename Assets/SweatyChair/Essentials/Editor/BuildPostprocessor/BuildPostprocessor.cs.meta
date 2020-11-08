@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7903faffa4a8b4a65a9d81cb811cd038
+timeCreated: 1509341060
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _entitlementsFile: {fileID: 102900000, guid: 1a085fda9c7ba453bac00c6e28e16505,
+      type: 3}
+  - _notificationSoundFile: {fileID: 8300000, guid: 5a1c3cab9a5094cda974163f58bae448,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

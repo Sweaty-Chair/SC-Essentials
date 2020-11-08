@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbbf355a630354e2382ef2a01f7dcc4f, type: 3}
+  m_Name: BouncyButtonSettings
+  m_EditorClassIdentifier: 
+  _bouncyButtonPresets:
+  - {fileID: 11400000, guid: fba4d6701d43748e894a4b45d4d5a412, type: 2}
+  - {fileID: 11400000, guid: 5a286a2396db343b0bcc1735f2a6be02, type: 2}
+  - {fileID: 11400000, guid: e78bd7e0cf9df41e4ab28149d51146ef, type: 2}
