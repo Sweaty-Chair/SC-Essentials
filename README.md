@@ -1,5 +1,5 @@
 # SC Essentials
-[![Build status](https://ci.appveyor.com/api/projects/status/github/Sweaty-Chair/Unity-Essentials?branch=main&svg=true)](https://ci.appveyor.com/project/Sweaty-Chair/Unity-Essentials/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/github/Sweaty-Chair/SC-Essentials?branch=main&svg=true)](https://ci.appveyor.com/project/Sweaty-Chair/Unity-Essentials/branch/main)
 [![Join the chat](https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat)](https://discord.gg/qwqeBtS)
 
 > The common and essentials scripts used across our projects providing code reusability and fast prototyping. This is also required by other SC modules.
